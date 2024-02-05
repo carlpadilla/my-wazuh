@@ -27,7 +27,7 @@ This project demonstrates a practical implementation of Wazuh, an open-source se
 ### Linux Server VM Setup
 
 1. Install your preferred Linux distribution on the VM.
-2. Follow the [Wazuh Manager Installation Guide](https://documentation.wazuh.com/current/installation-guide/wazuh-manager/index.html) to set up Wazuh on the VM.
+2. Follow the [Wazuh Manager Installation Guide](https://wazuh.com/install) to set up Wazuh on the VM.
 
 ### Endpoint Configuration
 
