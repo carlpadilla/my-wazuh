@@ -10,6 +10,8 @@ This project demonstrates a practical implementation of Wazuh, an open-source se
 - **Linux Server VM**: A virtual machine running on Proxmox, dedicated to hosting the Wazuh manager, responsible for collecting and analyzing data from monitored endpoints.
 - **Endpoints**: Three physical machines integrated with Wazuh agents, sending comprehensive monitoring data to the Wazuh manager for threat detection and alerting.
 - **Plex Server**: A virtualized instance of Plex Media Server, also monitored by Wazuh to ensure the security of media content and accessibility.
+![Diagram](/img/d_ZjGY1cwZ.svg)
+
 
 ## Key Components
 
